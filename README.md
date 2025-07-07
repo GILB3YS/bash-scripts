@@ -3,8 +3,6 @@
 Merhaba! Bu repo,Linux terminal kullanımıyla ilgilenenler için başlangıç seviyesinde ama etkili bash scriptlerini içerir.  
 Her script detaylı yorum satırları ile açıklanmış olup, öğrenme ve not alma odaklı hazırlanmıştır.
 
-> 🧠 “Komut satırı korkulacak bir şey değil, otomasyonla dosttur.”  
-
 ---
 
 ## 📁 İçindekiler
