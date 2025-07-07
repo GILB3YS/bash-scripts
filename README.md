@@ -1,6 +1,6 @@
 # 🐧 Bash Scripts — Sistem Otomasyonları için Başlangıç Araçları
 
-Merhaba! Bu repo, özellikle sistem yöneticiliği, siber güvenlik ve Linux terminal kullanımıyla ilgilenenler için başlangıç seviyesinde ama etkili bash scriptlerini içerir.  
+Merhaba! Bu repo,Linux terminal kullanımıyla ilgilenenler için başlangıç seviyesinde ama etkili bash scriptlerini içerir.  
 Her script detaylı yorum satırları ile açıklanmış olup, öğrenme ve not alma odaklı hazırlanmıştır.
 
 > 🧠 “Komut satırı korkulacak bir şey değil, otomasyonla dosttur.”  
